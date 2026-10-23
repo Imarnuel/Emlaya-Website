@@ -1,0 +1,28 @@
+{
+  "$description": "Web type scale for the Emlaya website. Same roles, fonts and weights as the mobile text styles in Figma; sizes re-based on a 16px body. Sizes are px at the default 16px root and are emitted as rem. Two-value sizes are fluid: [size at viewport.min, size at viewport.max]. lineHeight is a ratio for fluid styles and px for fixed ones. letterSpacing is in em, derived from the mobile text styles (px / font size).",
+  "viewport": { "min": 375, "max": 1280 },
+  "rootFontSize": 16,
+  "styles": {
+    "display-d1": { "figma": "Display/d1", "font": "display", "weight": "display", "size": [40, 72], "lineHeight": 1.05, "letterSpacing": -0.01 },
+    "display-d2": { "figma": "Display/d2", "font": "display", "weight": "display", "size": [36, 60], "lineHeight": 1.1, "letterSpacing": -0.011 },
+    "display-d3": { "figma": "Display/d3", "font": "display", "weight": "display", "size": [32, 48], "lineHeight": 1.15, "letterSpacing": -0.02 },
+    "heading-h1": { "figma": "Heading/h1", "font": "heading", "weight": "heading", "size": [28, 40], "lineHeight": 1.2, "letterSpacing": -0.015 },
+    "heading-h2": { "figma": "Heading/h2", "font": "heading", "weight": "heading", "size": [24, 32], "lineHeight": 1.25, "letterSpacing": -0.016 },
+    "heading-h3": { "figma": "Heading/h3", "font": "heading", "weight": "heading", "size": [20, 24], "lineHeight": 1.3, "letterSpacing": -0.012 },
+    "heading-h4": { "figma": "Heading/h4", "font": "heading", "weight": "heading", "size": [18, 20], "lineHeight": 1.4, "letterSpacing": -0.007 },
+    "body-large": { "figma": "Body/Large", "font": "body", "weight": "body", "size": 18, "lineHeight": 28, "letterSpacing": 0 },
+    "body-base": { "figma": "Body/base", "font": "body", "weight": "body", "size": 16, "lineHeight": 24, "letterSpacing": 0 },
+    "body-small": { "figma": "Body/small", "font": "body", "weight": "body", "size": 14, "lineHeight": 20, "letterSpacing": 0 },
+    "body-xsmall": { "figma": "Body/xsmall", "font": "body", "weight": "body", "size": 13, "lineHeight": 18, "letterSpacing": 0 },
+    "body-tiny": { "figma": "Body/tiny", "font": "body", "weight": "body", "size": 12, "lineHeight": 16, "letterSpacing": 0 },
+    "label-large": { "figma": "Label/large", "font": "label", "weight": "label", "size": 18, "lineHeight": 24, "letterSpacing": -0.006 },
+    "label-base": { "figma": "Label/base", "font": "label", "weight": "label", "size": 16, "lineHeight": 24, "letterSpacing": -0.007 },
+    "label-small": { "figma": "Label/small", "font": "label", "weight": "label", "size": 14, "lineHeight": 20, "letterSpacing": 0 },
+    "label-xsmall": { "figma": "Label/xsmall", "font": "label", "weight": "label", "size": 13, "lineHeight": 18, "letterSpacing": 0 },
+    "label-tiny": { "figma": "Label/tiny", "font": "label", "weight": "label", "size": 12, "lineHeight": 16, "letterSpacing": 0 },
+    "label-bold-large": { "figma": "Label-Bold/large", "font": "label", "weight": "label-bold", "size": 18, "lineHeight": 24, "letterSpacing": -0.006 },
+    "label-bold-base": { "figma": "Label-Bold/base", "font": "label", "weight": "label-bold", "size": 16, "lineHeight": 24, "letterSpacing": -0.007 },
+    "label-bold-small": { "figma": "Label-Bold/small", "font": "label", "weight": "label-bold", "size": 14, "lineHeight": 20, "letterSpacing": 0 },
+    "label-bold-xsmall": { "figma": "Label-Bold/xsmall", "font": "label", "weight": "label-bold", "size": 13, "lineHeight": 18, "letterSpacing": 0 }
+  }
+}

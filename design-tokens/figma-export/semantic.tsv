@@ -238,8 +238,8 @@ Semantic	Type/line height/display/d3	FLOAT	LINE_HEIGHT	theme.textVariants.displa
 Semantic	Type/line height/heading/h1	FLOAT	LINE_HEIGHT	theme.textVariants.headingH1.lineHeight			@Primitives:Type/line height/500	@Primitives:Type/line height/500
 Semantic	Type/line height/heading/h2	FLOAT	LINE_HEIGHT	theme.textVariants.headingH2.lineHeight			@Primitives:Type/line height/300	@Primitives:Type/line height/300
 Semantic	Type/line height/heading/h3	FLOAT	LINE_HEIGHT	theme.textVariants.headingH3.lineHeight			@Primitives:Type/line height/300	@Primitives:Type/line height/300
-Semantic	Type/line height/body/xsmall	FLOAT	LINE_HEIGHT	theme.textVariants.bodyXsmall.lineHeight			@Primitives:Type/line height/100	@Primitives:Type/line height/100
 Semantic	Type/line height/heading/h4	FLOAT	LINE_HEIGHT	theme.textVariants.headingH4.lineHeight			@Primitives:Type/line height/200	@Primitives:Type/line height/200
+Semantic	Type/line height/body/xsmall	FLOAT	LINE_HEIGHT	theme.textVariants.bodyXsmall.lineHeight			@Primitives:Type/line height/100	@Primitives:Type/line height/100
 Semantic	Type/line height/body/small	FLOAT	LINE_HEIGHT	theme.textVariants.bodySmall.lineHeight			@Primitives:Type/line height/100	@Primitives:Type/line height/100
 Semantic	Type/line height/body/base	FLOAT	LINE_HEIGHT	theme.textVariants.bodyBase.lineHeight			@Primitives:Type/line height/200	@Primitives:Type/line height/200
 Semantic	Type/line height/body/large	FLOAT	LINE_HEIGHT	theme.textVariants.bodyLarge.lineHeight			@Primitives:Type/line height/400	@Primitives:Type/line height/400
@@ -247,9 +247,9 @@ Semantic	Type/line height/label/xsmall	FLOAT	LINE_HEIGHT	theme.textVariants.labe
 Semantic	Type/line height/label/small	FLOAT	LINE_HEIGHT	theme.textVariants.labelSmall.lineHeight			@Primitives:Type/line height/100	@Primitives:Type/line height/100
 Semantic	Type/line height/label/base	FLOAT	LINE_HEIGHT	theme.textVariants.labelBase.lineHeight			@Primitives:Type/line height/200	@Primitives:Type/line height/200
 Semantic	Type/line height/label/large	FLOAT	LINE_HEIGHT	theme.textVariants.labelLarge.lineHeight			@Primitives:Type/line height/300	@Primitives:Type/line height/300
-Semantic	Type/letter spacing/dislpay/d1	FLOAT		theme.textVariants.displayD1.letterSpacing			@Primitives:Type/letter spacing/700	@Primitives:Type/letter spacing/700
-Semantic	Type/letter spacing/dislpay/d2	FLOAT		theme.textVariants.displayD2.letterSpacing			@Primitives:Type/letter spacing/600	@Primitives:Type/letter spacing/600
-Semantic	Type/letter spacing/dislpay/d3	FLOAT		theme.textVariants.displayD3.letterSpacing			@Primitives:Type/letter spacing/500	@Primitives:Type/letter spacing/500
+Semantic	Type/letter spacing/display/d1	FLOAT		theme.textVariants.displayD1.letterSpacing			@Primitives:Type/letter spacing/700	@Primitives:Type/letter spacing/700
+Semantic	Type/letter spacing/display/d2	FLOAT		theme.textVariants.displayD2.letterSpacing			@Primitives:Type/letter spacing/600	@Primitives:Type/letter spacing/600
+Semantic	Type/letter spacing/display/d3	FLOAT		theme.textVariants.displayD3.letterSpacing			@Primitives:Type/letter spacing/500	@Primitives:Type/letter spacing/500
 Semantic	Type/letter spacing/heading/h1	FLOAT		theme.textVariants.headingH1.letterSpacing			@Primitives:Type/letter spacing/400	@Primitives:Type/letter spacing/600
 Semantic	Type/letter spacing/heading/h2	FLOAT		theme.textVariants.headingH2.letterSpacing			@Primitives:Type/letter spacing/400	@Primitives:Type/letter spacing/400
 Semantic	Type/letter spacing/heading/h3	FLOAT		theme.textVariants.headingH3.letterSpacing			@Primitives:Type/letter spacing/300	@Primitives:Type/letter spacing/300
@@ -261,8 +261,8 @@ Semantic	Type/letter spacing/body/large	FLOAT		theme.textVariants.bodyLarge.lett
 Semantic	Type/letter spacing/label/xsmall	FLOAT		theme.textVariants.labelXsmall.letterSpacing			@Primitives:Type/letter spacing/100	@Primitives:Type/letter spacing/100
 Semantic	Type/letter spacing/label/small	FLOAT		theme.textVariants.labelSmall.letterSpacing			@Primitives:Type/letter spacing/100	@Primitives:Type/letter spacing/100
 Semantic	Type/letter spacing/label/base	FLOAT		theme.textVariants.labelBase.letterSpacing			@Primitives:Type/letter spacing/100	@Primitives:Type/letter spacing/100
-Semantic	Type/letter spacing/label/large	FLOAT		theme.textVariants.labelLarge.letterSpacing			@Primitives:Type/letter spacing/200	@Primitives:Type/letter spacing/200
 Semantic	Type/font family/display	STRING	ALL_SCOPES	theme.fontFamilies.displaySemiBold			@Primitives:Type/font family/Font display	@Primitives:Type/font family/Font display
+Semantic	Type/letter spacing/label/large	FLOAT		theme.textVariants.labelLarge.letterSpacing			@Primitives:Type/letter spacing/200	@Primitives:Type/letter spacing/200
 Semantic	Type/font family/heading	STRING	ALL_SCOPES	theme.fontFamilies.headingSemiBold			@Primitives:Type/font family/Font heading	@Primitives:Type/font family/Font heading
 Semantic	Type/font family/body	STRING	ALL_SCOPES	theme.fontFamilies.bodyRegular			@Primitives:Type/font family/Font body	@Primitives:Type/font family/Font body
 Semantic	Type/font family/label	STRING	ALL_SCOPES	theme.fontFamilies.labelMedium			@Primitives:Type/font family/Font body	@Primitives:Type/font family/Font body
@@ -290,9 +290,9 @@ Semantic	Color/background/brand-universal/pressed	COLOR	FRAME_FILL,SHAPE_FILL,EF
 Semantic	Color/background/brand-universal/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBold			@Primitives:Color/yellow/400	@Primitives:Color/yellow/400
 Semantic	Color/background/brand-universal/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBoldHovered			@Primitives:Color/yellow/500	@Primitives:Color/yellow/500
 Semantic	Color/background/brand-universal/bold/pressed	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBoldPressed			@Primitives:Color/yellow/500	@Primitives:Color/yellow/500
-Semantic	Color/surface/transluscent/default	COLOR	FRAME_FILL	theme.colors.surfaceOverlayDefault			@Primitives:Color/white@85%	@Primitives:Color/dark neutral/100@85%
-Semantic	Color/surface/transluscent/default hovered	COLOR	FRAME_FILL	theme.colors.surfaceOverlayHovered			@Primitives:Color/neutral/100@85%	@Primitives:Color/dark neutral/200@85%
-Semantic	Color/surface/transluscent/default pressed	COLOR	FRAME_FILL	theme.colors.surfaceOverlayPressed			@Primitives:Color/neutral/100@85%	@Primitives:Color/dark neutral/200@85%
+Semantic	Color/surface/translucent/default	COLOR	FRAME_FILL	theme.colors.surfaceOverlayDefault			@Primitives:Color/white@85%	@Primitives:Color/dark neutral/100@85%
+Semantic	Color/surface/translucent/default hovered	COLOR	FRAME_FILL	theme.colors.surfaceOverlayHovered			@Primitives:Color/neutral/100@85%	@Primitives:Color/dark neutral/200@85%
+Semantic	Color/surface/translucent/default pressed	COLOR	FRAME_FILL	theme.colors.surfaceOverlayPressed			@Primitives:Color/neutral/100@85%	@Primitives:Color/dark neutral/200@85%
 Semantic	Color/background/accent/gray/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentAquaBg			@Primitives:Color/neutral/200	@Primitives:Color/dark neutral/200
 Semantic	Color/background/accent/gray/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentAquaBgHovered			@Primitives:Color/neutral/300	@Primitives:Color/dark neutral/300
 Semantic	Color/background/accent/gray/less bold/default	COLOR	ALL_SCOPES				@Primitives:Color/neutral/300	@Primitives:Color/dark neutral/300

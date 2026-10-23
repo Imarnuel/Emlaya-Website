@@ -38,9 +38,12 @@ Each collection was read with read-only Figma Plugin API scripts. Each file was 
 
 These come from the Figma file itself and are recorded here, not fixed:
 
-- `Heading/h4` letter spacing is bound to a variable that no longer exists (`VariableID:203:787`).
 - `Color/blue/300` and `Color/blue/400` have the same value (`#51a2ff`).
 - `Color/background/logo/type-neutral` and `Color/background/logo/border` use `#0f1b33`, which isn't in the Primitives palette.
-- Typos in names: `dislpay` (letter spacing), `transluscent` (surface).
 - Near-duplicate names: `Color/green/900 2`, `Color/background/neutral/bolder 2/*`.
 - 43 code names (`codeSyntaxWeb`) are shared by more than one variable, e.g. `theme.colors.textBrand` is used for both `Color/text/brand` and `Color/text/brand-bolder`.
+
+Fixed in Figma on 2026-10-23 (no visual change), and reflected in this export:
+
+- Renamed `Type/letter spacing/dislpay/*` to `display` and `Color/surface/transluscent/*` to `translucent`.
+- `Heading/h4` letter spacing was bound to a deleted variable. It's now bound to `Type/letter spacing/heading/h4`, which has the same value (-0.1px).
