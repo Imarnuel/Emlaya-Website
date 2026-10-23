@@ -1,0 +1,310 @@
+collection	name	type	scopes	codeSyntaxWeb	hidden	description	Light	Dark
+Semantic	Color/text/default	COLOR	TEXT_FILL	theme.colors.textDefault			@Primitives:Color/neutral/900	@Primitives:Color/dark neutral/900
+Semantic	Color/text/secondary	COLOR	TEXT_FILL	theme.colors.textSecondary			@Primitives:Color/neutral/700	@Primitives:Color/dark neutral/700
+Semantic	Color/text/subtle	COLOR	TEXT_FILL	theme.colors.textSubtle			@Primitives:Color/neutral/600	@Primitives:Color/dark neutral/500
+Semantic	Color/text/subtlest	COLOR	TEXT_FILL	theme.colors.textSubtlest			@Primitives:Color/neutral/400	@Primitives:Color/dark neutral/400
+Semantic	Color/text/inverse	COLOR	TEXT_FILL	theme.colors.textInverse			@Primitives:Color/neutral/50	@Primitives:Color/dark neutral/50
+Semantic	Color/text/text-black	COLOR	TEXT_FILL	theme.colors.textBlack			@Primitives:Color/neutral/900	@Primitives:Color/neutral/900
+Semantic	Color/text/text-white	COLOR	TEXT_FILL	theme.colors.textWhite			@Primitives:Color/neutral/50	@Primitives:Color/neutral/50
+Semantic	Color/text/selected	COLOR	TEXT_FILL	theme.colors.textSelected			@Primitives:Color/yellow/500	@Primitives:Color/yellow/400
+Semantic	Color/text/disabled	COLOR	TEXT_FILL	theme.colors.textDisabled			@Primitives:Color/alpha neutral/400	@Primitives:Color/dark alpha neutral/400
+Semantic	Color/text/brand	COLOR	TEXT_FILL	theme.colors.textBrand			@Primitives:Color/yellow/600	@Primitives:Color/yellow/300
+Semantic	Color/text/brand-bolder	COLOR	TEXT_FILL	theme.colors.textBrand			@Primitives:Color/yellow/700	@Primitives:Color/yellow/200
+Semantic	Color/text/info	COLOR	TEXT_FILL	theme.colors.textInfo			@Primitives:Color/blue/700	@Primitives:Color/blue/200
+Semantic	Color/text/warning	COLOR	TEXT_FILL	theme.colors.textWarning			@Primitives:Color/yellow/700	@Primitives:Color/yellow/200
+Semantic	Color/text/danger	COLOR	TEXT_FILL	theme.colors.textDanger			@Primitives:Color/red/600	@Primitives:Color/red/300
+Semantic	Color/text/success	COLOR	TEXT_FILL	theme.colors.textSuccess			@Primitives:Color/green/700	@Primitives:Color/green/300
+Semantic	Color/text/accent/violet	COLOR	TEXT_FILL	theme.colors.accentAquaText			@Primitives:Color/violet/700	@Primitives:Color/violet/200
+Semantic	Color/text/accent/orange	COLOR	TEXT_FILL	theme.colors.accentOrangeText			@Primitives:Color/orange/700	@Primitives:Color/orange/300
+Semantic	Color/text/accent/pink	COLOR	TEXT_FILL	theme.colors.accentPinkText			@Primitives:Color/pink/700	@Primitives:Color/pink/300
+Semantic	Color/text/accent/rose	COLOR	TEXT_FILL	theme.colors.accentRoseText			@Primitives:Color/rose/700	@Primitives:Color/rose/300
+Semantic	Color/text/accent/purple	COLOR	TEXT_FILL	theme.colors.accentPurpleText			@Primitives:Color/purple/700	@Primitives:Color/purple/300
+Semantic	Color/text/accent/indigo	COLOR	TEXT_FILL	theme.colors.accentIndigoText			@Primitives:Color/cyan/700	@Primitives:Color/cyan/200
+Semantic	Color/text/accent/blue	COLOR	TEXT_FILL	theme.colors.accentBlueText			@Primitives:Color/blue/600	@Primitives:Color/blue/300
+Semantic	Color/text/accent/yellow	COLOR	TEXT_FILL	theme.colors.accentYellowText			@Primitives:Color/yellow/600	@Primitives:Color/yellow/200
+Semantic	Color/text/accent/red	COLOR	TEXT_FILL	theme.colors.accentRedText			@Primitives:Color/red/600	@Primitives:Color/red/300
+Semantic	Color/text/accent/green	COLOR	TEXT_FILL	theme.colors.accentGreenText			@Primitives:Color/green/700	@Primitives:Color/green/300
+Semantic	Color/text/accent/cyan	COLOR	TEXT_FILL	theme.colors.accentGreenText			@Primitives:Color/cyan/600	@Primitives:Color/cyan/600
+Semantic	Color/icon/default	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconDefault			@Primitives:Color/neutral/800	@Primitives:Color/dark alpha neutral/800
+Semantic	Color/icon/subtle	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconSubtle			@Primitives:Color/neutral/600	@Primitives:Color/dark alpha neutral/600
+Semantic	Color/icon/subtlest	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconSubtlest			@Primitives:Color/neutral/400	@Primitives:Color/dark alpha neutral/500
+Semantic	Color/icon/inverse	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconInverse			@Primitives:Color/neutral/50	@Primitives:Color/neutral/950
+Semantic	Color/icon/black	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconDefault			@Primitives:Color/neutral/800	@Primitives:Color/neutral/800
+Semantic	Color/icon/white	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconDefault			@Primitives:Color/neutral/50	@Primitives:Color/neutral/50
+Semantic	Color/icon/disabled	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconDisabled			@Primitives:Color/alpha neutral/300	@Primitives:Color/dark alpha neutral/300
+Semantic	Color/icon/brand	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconBrand			@Primitives:Color/yellow/500	@Primitives:Color/yellow/400
+Semantic	Color/icon/brand-bolder	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconBrand			@Primitives:Color/yellow/600	@Primitives:Color/yellow/300
+Semantic	Color/icon/info	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconInfo			@Primitives:Color/blue/500	@Primitives:Color/blue/400
+Semantic	Color/icon/warning	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconWarning			@Primitives:Color/yellow/600	@Primitives:Color/yellow/300
+Semantic	Color/icon/danger	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconDanger			@Primitives:Color/red/500	@Primitives:Color/red/400
+Semantic	Color/icon/success	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconSuccess			@Primitives:Color/green/600	@Primitives:Color/green/400
+Semantic	Color/icon/warning/bolder	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconWarningBolder			@Primitives:Color/yellow/700	@Primitives:Color/yellow/300
+Semantic	Color/icon/danger/bolder	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconDangerBolder			@Primitives:Color/red/700	@Primitives:Color/red/300
+Semantic	Color/icon/success/bolder	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.iconSuccessBolder			@Primitives:Color/green/700	@Primitives:Color/green/300
+Semantic	Color/icon/accent/violet	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.accentAquaIcon			@Primitives:Color/violet/600	@Primitives:Color/violet/400
+Semantic	Color/icon/accent/orange	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.accentOrangeIcon			@Primitives:Color/orange/600	@Primitives:Color/orange/500
+Semantic	Color/icon/accent/pink	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.accentPinkIcon			@Primitives:Color/pink/700	@Primitives:Color/pink/500
+Semantic	Color/icon/accent/rose	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.accentRoseIcon			@Primitives:Color/rose/700	@Primitives:Color/rose/500
+Semantic	Color/icon/accent/purple	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.accentPurpleIcon			@Primitives:Color/purple/700	@Primitives:Color/purple/400
+Semantic	Color/icon/accent/indigo	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.accentIndigoIcon			@Primitives:Color/cyan/600	@Primitives:Color/cyan/300
+Semantic	Color/icon/accent/blue	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.accentBlueIcon			@Primitives:Color/blue/600	@Primitives:Color/blue/300
+Semantic	Color/icon/accent/yellow	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.accentYellowIcon			@Primitives:Color/yellow/500	@Primitives:Color/yellow/400
+Semantic	Color/icon/accent/red	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.accentRedIcon			@Primitives:Color/red/500	@Primitives:Color/red/400
+Semantic	Color/icon/accent/green	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.accentGreenIcon			@Primitives:Color/green/600	@Primitives:Color/green/300
+Semantic	Color/icon/accent/cyan	COLOR	FRAME_FILL,SHAPE_FILL,STROKE_COLOR	theme.colors.accentGreenIcon			@Primitives:Color/cyan/600	@Primitives:Color/cyan/300
+Semantic	Color/surface/default	COLOR	FRAME_FILL	theme.colors.surfaceDefault			@Primitives:Color/white	@Primitives:Color/dark neutral/100
+Semantic	Color/surface/default hovered	COLOR	FRAME_FILL	theme.colors.surfaceDefaultHovered			@Primitives:Color/neutral/100	@Primitives:Color/dark neutral/200
+Semantic	Color/surface/default pressed	COLOR	FRAME_FILL	theme.colors.surfaceDefaultPressed			@Primitives:Color/neutral/200	@Primitives:Color/dark neutral/200
+Semantic	Color/surface/overlay/default	COLOR	FRAME_FILL	theme.colors.surfaceOverlayDefault			@Primitives:Color/white	@Primitives:Color/dark neutral/200
+Semantic	Color/surface/overlay/default hovered	COLOR	FRAME_FILL	theme.colors.surfaceOverlayHovered			@Primitives:Color/neutral/100	@Primitives:Color/dark alpha neutral/200
+Semantic	Color/surface/overlay/default pressed	COLOR	FRAME_FILL	theme.colors.surfaceOverlayPressed			@Primitives:Color/neutral/300	@Primitives:Color/dark alpha neutral/300
+Semantic	Color/surface/gradient/default	COLOR	FRAME_FILL	theme.colors.surfaceOverlayDefault			@Primitives:Color/yellow/400	@Primitives:Color/yellow/600@0%
+Semantic	Color/surface/gradient/default hovered	COLOR	FRAME_FILL	theme.colors.surfaceOverlayHovered			@Primitives:Color/yellow/500	@Primitives:Color/yellow/500@50%
+Semantic	Color/surface/gradient/default pressed	COLOR	FRAME_FILL	theme.colors.surfaceOverlayPressed			@Primitives:Color/yellow/500	@Primitives:Color/yellow/500@50%
+Semantic	Color/surface/secondary/default	COLOR	FRAME_FILL	theme.colors.surfaceSecondary			@Primitives:Color/neutral/100	@Primitives:Color/dark neutral/50
+Semantic	Color/surface/secondary/default hovered	COLOR	FRAME_FILL	theme.colors.surfaceSecondaryHovered			@Primitives:Color/neutral/200	@Primitives:Color/dark neutral/100
+Semantic	Color/surface/secondary/default pressed	COLOR	FRAME_FILL	theme.colors.surfaceSecondaryPressed			@Primitives:Color/neutral/300	@Primitives:Color/dark neutral/100
+Semantic	Color/background/disabled	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerDisabled			@Primitives:Color/alpha neutral/100	@Primitives:Color/dark alpha neutral/100
+Semantic	Color/background/inverse/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerInverse			@Primitives:Color/white	@Primitives:Color/dark alpha neutral/25
+Semantic	Color/background/inverse/hover	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerInverseHover			@Primitives:Color/neutral/100	@Primitives:Color/dark alpha neutral/100
+Semantic	Color/background/input/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerInput			@Primitives:Color/white	@Primitives:Color/dark alpha neutral/50
+Semantic	Color/background/input/hover	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerInputHover			@Primitives:Color/neutral/100	@Primitives:Color/dark alpha neutral/100
+Semantic	Color/background/input/pressed	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerInputPressed			@Primitives:Color/neutral/200	@Primitives:Color/dark alpha neutral/200
+Semantic	Color/background/selected/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerSelected			@Primitives:Color/yellow/50	@Primitives:Color/yellow/950
+Semantic	Color/background/selected/hover	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerSelectedHover			@Primitives:Color/yellow/100	@Primitives:Color/yellow/900
+Semantic	Color/background/selected/pressed	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerSelectedPressed			@Primitives:Color/yellow/200	@Primitives:Color/yellow/700
+Semantic	Color/background/neutral/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerNeutral			@Primitives:Color/alpha neutral/200	@Primitives:Color/dark alpha neutral/200
+Semantic	Color/background/neutral/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerNeutralHovered			@Primitives:Color/alpha neutral/300	@Primitives:Color/dark alpha neutral/300
+Semantic	Color/background/neutral/subtle/default	COLOR	ALL_SCOPES	theme.colors.containerNeutralSubtle			@Primitives:Color/alpha neutral/100	@Primitives:Color/alpha neutral/800
+Semantic	Color/background/neutral/subtle/hover	COLOR	ALL_SCOPES	theme.colors.containerNeutralSubtleHover			@Primitives:Color/alpha neutral/200	@Primitives:Color/alpha neutral/700
+Semantic	Color/background/neutral/subtle/pressed	COLOR	ALL_SCOPES	theme.colors.containerNeutralSubtlePressed			@Primitives:Color/alpha neutral/300	@Primitives:Color/alpha neutral/600
+Semantic	Color/background/neutral/less-bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerNeutralLessBold			@Primitives:Color/alpha neutral/300	@Primitives:Color/dark alpha neutral/300
+Semantic	Color/background/neutral/less-bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerNeutralLessBoldHovered			@Primitives:Color/alpha neutral/400	@Primitives:Color/dark alpha neutral/400
+Semantic	Color/background/neutral/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerNeutralBold			@Primitives:Color/neutral/500	@Primitives:Color/dark alpha neutral/500
+Semantic	Color/background/neutral/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerNeutralBoldHovered			@Primitives:Color/neutral/600	@Primitives:Color/dark alpha neutral/600
+Semantic	Color/background/neutral/bolder/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerNeutralBolder			@Primitives:Color/neutral/900	@Primitives:Color/dark alpha neutral/900
+Semantic	Color/background/neutral/bolder/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerNeutralBolderHovered			@Primitives:Color/neutral/800	@Primitives:Color/dark alpha neutral/800
+Semantic	Color/background/neutral/boldest/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerTransparent			@Primitives:Color/neutral/950	@Primitives:Color/dark neutral/900
+Semantic	Color/background/neutral/boldest/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerTransparentHovered			@Primitives:Color/neutral/900	@Primitives:Color/dark neutral/800
+Semantic	Color/background/neutral/boldest/pressed	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerTransparentPressed			@Primitives:Color/neutral/900	@Primitives:Color/dark neutral/800
+Semantic	Color/background/info/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerInfo			@Primitives:Color/blue/50	@Primitives:Color/blue/950
+Semantic	Color/background/info/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerInfoHovered			@Primitives:Color/blue/100	@Primitives:Color/blue/800
+Semantic	Color/background/info/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerInfoBold			@Primitives:Color/blue/600	@Primitives:Color/blue/200
+Semantic	Color/background/info/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerInfoBoldHovered			@Primitives:Color/blue/700	@Primitives:Color/blue/100
+Semantic	Color/background/brand/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrand			@Primitives:Color/yellow/100	@Primitives:Color/yellow/950
+Semantic	Color/background/brand/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandHovered			@Primitives:Color/yellow/200	@Primitives:Color/yellow/800
+Semantic	Color/background/brand/pressed	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandPressed			@Primitives:Color/yellow/300	@Primitives:Color/yellow/700
+Semantic	Color/background/brand/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBold			@Primitives:Color/yellow/400	@Primitives:Color/yellow/500
+Semantic	Color/background/brand/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBoldHovered			@Primitives:Color/yellow/500	@Primitives:Color/yellow/400
+Semantic	Color/background/brand/bold/pressed	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBoldPressed			@Primitives:Color/yellow/500	@Primitives:Color/yellow/400
+Semantic	Color/background/brand/bolder/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBold			@Primitives:Color/yellow/500	@Primitives:Color/yellow/400
+Semantic	Color/background/brand/bolder/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBoldHovered			@Primitives:Color/yellow/600	@Primitives:Color/yellow/300
+Semantic	Color/background/brand/bolder/pressed	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBoldPressed			@Primitives:Color/yellow/600	@Primitives:Color/yellow/300
+Semantic	Color/background/brand/subtle/default	COLOR	ALL_SCOPES	theme.colors.containerBrandSubtle			@Primitives:Color/yellow/50	@Primitives:Color/yellow/950
+Semantic	Color/background/brand/subtle/hover	COLOR	ALL_SCOPES	theme.colors.containerBrandSubtleHover			@Primitives:Color/yellow/100	@Primitives:Color/yellow/900
+Semantic	Color/background/brand/subtle/pressed	COLOR	ALL_SCOPES	theme.colors.containerBrandSubtlePressed			@Primitives:Color/yellow/200	@Primitives:Color/yellow/700
+Semantic	Color/background/warning/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerWarning			@Primitives:Color/amber/100	@Primitives:Color/yellow/950
+Semantic	Color/background/warning/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerWarningHovered			@Primitives:Color/orange/200	@Primitives:Color/yellow/900
+Semantic	Color/background/warning/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerWarningBold			@Primitives:Color/yellow/600	@Primitives:Color/yellow/300
+Semantic	Color/background/warning/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerWarningBoldHovered			@Primitives:Color/yellow/700	@Primitives:Color/yellow/200
+Semantic	Color/background/danger/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerDanger			@Primitives:Color/red/50	@Primitives:Color/red/900
+Semantic	Color/background/danger/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerDangerHovered			@Primitives:Color/red/100	@Primitives:Color/red/800
+Semantic	Color/background/danger/pressed	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerDangerPressed			@Primitives:Color/red/200	@Primitives:Color/red/700
+Semantic	Color/background/danger/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerDangerBold			@Primitives:Color/red/500	@Primitives:Color/red/400
+Semantic	Color/background/danger/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerDangerBoldHovered			@Primitives:Color/red/600	@Primitives:Color/red/300
+Semantic	Color/background/danger/bold/pressed	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerDangerBoldPressed			@Primitives:Color/red/800	@Primitives:Color/red/100
+Semantic	Color/background/success/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerSuccess			@Primitives:Color/green/100	@Primitives:Color/green/900
+Semantic	Color/background/success/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerSuccessHovered			@Primitives:Color/green/200	@Primitives:Color/green/800
+Semantic	Color/background/success/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerSuccessBold			@Primitives:Color/green/600	@Primitives:Color/green/300
+Semantic	Color/background/success/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerSuccessBoldHovered			@Primitives:Color/green/700	@Primitives:Color/green/200
+Semantic	Color/background/logo/aqua	COLOR	ALL_SCOPES				@Primitives:Color/violet/300	@Primitives:Color/violet/300
+Semantic	Color/background/logo/icon-brand	COLOR	ALL_SCOPES				@Primitives:Color/yellow/600	@Primitives:Color/yellow/400
+Semantic	Color/background/logo/type-brand	COLOR	ALL_SCOPES				@Primitives:Color/yellow/600	@Primitives:Color/yellow/300
+Semantic	Color/background/logo/type-neutral	COLOR	ALL_SCOPES				#0f1b33	@Primitives:Color/white
+Semantic	Color/background/logo/border	COLOR	ALL_SCOPES				#0f1b33	@Primitives:Color/white
+Semantic	Color/background/logo/neutral theme	COLOR	ALL_SCOPES				@Primitives:Color/neutral/700	@Primitives:Color/dark alpha neutral/700
+Semantic	Color/background/logo/inverse	COLOR	ALL_SCOPES				@Primitives:Color/white	@Primitives:Color/dark alpha neutral/100
+Semantic	Color/background/accent/violet/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentAquaBg			@Primitives:Color/violet/50	@Primitives:Color/violet/900
+Semantic	Color/background/accent/violet/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentAquaBgHovered			@Primitives:Color/violet/100	@Primitives:Color/violet/800
+Semantic	Color/background/accent/violet/less bold/default	COLOR	ALL_SCOPES				@Primitives:Color/violet/300	@Primitives:Color/violet/600
+Semantic	Color/background/accent/violet/less bold/hovered	COLOR	ALL_SCOPES				@Primitives:Color/violet/400	@Primitives:Color/violet/500
+Semantic	Color/background/accent/violet/less bold/pressed	COLOR	ALL_SCOPES				@Primitives:Color/violet/500	@Primitives:Color/violet/400
+Semantic	Color/background/accent/violet/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentAquaBold			@Primitives:Color/violet/500	@Primitives:Color/violet/400
+Semantic	Color/background/accent/violet/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentAquaBoldHovered			@Primitives:Color/violet/600	@Primitives:Color/violet/300
+Semantic	Color/background/accent/orange/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentOrangeBg			@Primitives:Color/orange/100	@Primitives:Color/orange/950
+Semantic	Color/background/accent/orange/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentOrangeBgHovered			@Primitives:Color/orange/200	@Primitives:Color/orange/900
+Semantic	Color/background/accent/orange/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentOrangeBold			@Primitives:Color/orange/600	@Primitives:Color/orange/400
+Semantic	Color/background/accent/orange/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentOrangeBoldHovered			@Primitives:Color/orange/800	@Primitives:Color/orange/300
+Semantic	Color/background/accent/pink/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentPinkBg			@Primitives:Color/pink/200	@Primitives:Color/pink/950
+Semantic	Color/background/accent/pink/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentPinkBgHovered			@Primitives:Color/pink/300	@Primitives:Color/pink/900
+Semantic	Color/background/accent/pink/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentPinkBold			@Primitives:Color/pink/600	@Primitives:Color/pink/400
+Semantic	Color/background/accent/pink/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentPinkBoldHovered			@Primitives:Color/pink/800	@Primitives:Color/pink/300
+Semantic	Color/background/accent/rose/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentRoseBg			@Primitives:Color/rose/100	@Primitives:Color/rose/950
+Semantic	Color/background/accent/rose/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentRoseBgHovered			@Primitives:Color/rose/200	@Primitives:Color/rose/900
+Semantic	Color/background/accent/rose/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentRoseBold			@Primitives:Color/rose/600	@Primitives:Color/rose/400
+Semantic	Color/background/accent/rose/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentRoseBoldHovered			@Primitives:Color/rose/800	@Primitives:Color/rose/300
+Semantic	Color/background/accent/purple/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentPurpleBg			@Primitives:Color/purple/100	@Primitives:Color/purple/950
+Semantic	Color/background/accent/purple/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentPurpleBgHovered			@Primitives:Color/purple/200	@Primitives:Color/purple/900
+Semantic	Color/background/accent/purple/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentPurpleBold			@Primitives:Color/purple/600	@Primitives:Color/purple/500
+Semantic	Color/background/accent/purple/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentPurpleBoldHovered			@Primitives:Color/purple/800	@Primitives:Color/purple/400
+Semantic	Color/background/accent/fuchsia/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentIndigoBg			@Primitives:Color/fuchsia/100	@Primitives:Color/fuchsia/900
+Semantic	Color/background/accent/fuchsia/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentIndigoBgHovered			@Primitives:Color/fuchsia/200	@Primitives:Color/fuchsia/800
+Semantic	Color/background/accent/fuchsia/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentIndigoBold			@Primitives:Color/fuchsia/600	@Primitives:Color/fuchsia/300
+Semantic	Color/background/accent/fuchsia/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentIndigoBoldHovered			@Primitives:Color/fuchsia/700	@Primitives:Color/fuchsia/200
+Semantic	Color/background/accent/blue/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentBlueBg			@Primitives:Color/blue/50	@Primitives:Color/blue/950
+Semantic	Color/background/accent/blue/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentBlueBgHovered			@Primitives:Color/blue/100	@Primitives:Color/blue/900
+Semantic	Color/background/accent/blue/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentBlueBold			@Primitives:Color/blue/600	@Primitives:Color/blue/300
+Semantic	Color/background/accent/blue/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentBlueBoldHovered			@Primitives:Color/blue/700	@Primitives:Color/blue/200
+Semantic	Color/background/accent/yellow/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentYellowBg			@Primitives:Color/yellow/50	@Primitives:Color/yellow/950
+Semantic	Color/background/accent/yellow/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentYellowBgHovered			@Primitives:Color/yellow/100	@Primitives:Color/yellow/900
+Semantic	Color/background/accent/yellow/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentYellowBold			@Primitives:Color/yellow/600	@Primitives:Color/yellow/300
+Semantic	Color/background/accent/yellow/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentYellowBoldHovered			@Primitives:Color/yellow/700	@Primitives:Color/yellow/200
+Semantic	Color/background/accent/green/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentGreenBg			@Primitives:Color/green/100	@Primitives:Color/green/900
+Semantic	Color/background/accent/green/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentGreenBgHovered			@Primitives:Color/green/200	@Primitives:Color/green/800
+Semantic	Color/background/accent/green/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentGreenBold			@Primitives:Color/green/600	@Primitives:Color/green/300
+Semantic	Color/background/accent/green/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentGreenBoldHovered			@Primitives:Color/green/700	@Primitives:Color/green/400
+Semantic	Color/background/accent/red/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentRedBg			@Primitives:Color/red/50	@Primitives:Color/red/900
+Semantic	Color/background/accent/red/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentRedBgHovered			@Primitives:Color/red/100	@Primitives:Color/red/800
+Semantic	Color/background/accent/red/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentRedBold			@Primitives:Color/red/600	@Primitives:Color/red/300
+Semantic	Color/background/accent/red/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentRedBoldHovered			@Primitives:Color/red/700	@Primitives:Color/red/200
+Semantic	Color/link/default	COLOR	FRAME_FILL,TEXT_FILL	theme.colors.linkDefault			@Primitives:Color/yellow/600	@Primitives:Color/yellow/200
+Semantic	Color/border/default	COLOR	ALL_FILLS,STROKE_COLOR	theme.colors.borderDefault			@Primitives:Color/alpha neutral/300	@Primitives:Color/dark alpha neutral/300
+Semantic	Color/border/subtle	COLOR	ALL_FILLS,STROKE_COLOR	theme.colors.borderSubtle			@Primitives:Color/alpha neutral/200	@Primitives:Color/dark alpha neutral/200
+Semantic	Color/border/subtler	COLOR	ALL_FILLS,STROKE_COLOR	theme.colors.borderSubtle			@Primitives:Color/alpha neutral/100	@Primitives:Color/dark alpha neutral/100
+Semantic	Color/border/bolder	COLOR	ALL_FILLS,STROKE_COLOR	theme.colors.borderBolder			@Primitives:Color/alpha neutral/500	@Primitives:Color/dark alpha neutral/500
+Semantic	Color/border/inverse	COLOR	ALL_FILLS,STROKE_COLOR	theme.colors.borderInverse			@Primitives:Color/white	@Primitives:Color/dark alpha neutral/25
+Semantic	Color/border/inverse-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderInverse			@Primitives:Color/white@60%	@Primitives:Color/dark alpha neutral/25@60%
+Semantic	Color/border/inverse-subtlest	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderInverse			@Primitives:Color/white@40%	@Primitives:Color/dark alpha neutral/25@40%
+Semantic	Color/border/selected	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderSelected			@Primitives:Color/yellow/500	@Primitives:Color/yellow/200
+Semantic	Color/border/disabled	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderDisabled			@Primitives:Color/alpha neutral/200	@Primitives:Color/dark alpha neutral/200
+Semantic	Color/border/input	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderInput			@Primitives:Color/alpha neutral/300	@Primitives:Color/alpha neutral/300
+Semantic	Color/border/brand	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderBrand			@Primitives:Color/yellow/500	@Primitives:Color/yellow/400
+Semantic	Color/border/brand-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderBrand			@Primitives:Color/yellow/300	@Primitives:Color/yellow/600
+Semantic	Color/border/info	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderInfo			@Primitives:Color/blue/600	@Primitives:Color/blue/100
+Semantic	Color/border/info-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderInfo			@Primitives:Color/blue/200	@Primitives:Color/blue/700
+Semantic	Color/border/warning	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderWarning			@Primitives:Color/yellow/600	@Primitives:Color/yellow/300
+Semantic	Color/border/warning-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderWarning			@Primitives:Color/amber/200	@Primitives:Color/amber/700
+Semantic	Color/border/danger	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderDanger			@Primitives:Color/red/600	@Primitives:Color/red/300
+Semantic	Color/border/success	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderSuccess			@Primitives:Color/green/600	@Primitives:Color/green/300
+Semantic	Color/border/success-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.borderSuccess			@Primitives:Color/green/200	@Primitives:Color/green/200
+Semantic	Color/border/accent/violet	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentAquaBorder			@Primitives:Color/violet/600	@Primitives:Color/violet/300
+Semantic	Color/border/accent/violet-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentAquaBorder			@Primitives:Color/violet/300	@Primitives:Color/violet/600
+Semantic	Color/border/accent/orange	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentOrangeBorder			@Primitives:Color/orange/600	@Primitives:Color/orange/300
+Semantic	Color/border/accent/orange-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentOrangeBorder			@Primitives:Color/orange/300	@Primitives:Color/orange/300
+Semantic	Color/border/accent/pink	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentPinkBorder			@Primitives:Color/pink/700	@Primitives:Color/pink/500
+Semantic	Color/border/accent/pink-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentPinkBorder			@Primitives:Color/pink/300	@Primitives:Color/pink/600
+Semantic	Color/border/accent/rose	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentRoseBorder			@Primitives:Color/rose/700	@Primitives:Color/rose/500
+Semantic	Color/border/accent/rose-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentRoseBorder			@Primitives:Color/rose/300	@Primitives:Color/rose/600
+Semantic	Color/border/accent/purple	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentPurpleBorder			@Primitives:Color/purple/700	@Primitives:Color/purple/500
+Semantic	Color/border/accent/purple-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentPurpleBorder			@Primitives:Color/purple/300	@Primitives:Color/purple/600
+Semantic	Color/border/accent/cyan	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentIndigoBorder			@Primitives:Color/cyan/600	@Primitives:Color/cyan/400
+Semantic	Color/border/accent/cyan-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentIndigoBorder			@Primitives:Color/cyan/300	@Primitives:Color/cyan/600
+Semantic	Color/border/accent/blue	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentBlueBorder			@Primitives:Color/blue/600	@Primitives:Color/blue/400
+Semantic	Color/border/accent/blue-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentBlueBorder			@Primitives:Color/blue/200	@Primitives:Color/blue/700
+Semantic	Color/blanket	COLOR	ALL_SCOPES				@Primitives:Color/alpha neutral/500	@Primitives:Color/alpha neutral/600
+Semantic	Color/blanket-light	COLOR	ALL_SCOPES				@Primitives:Color/white@35%	@Primitives:Color/white@10%
+Semantic	Color/border/accent/green	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentYellowBorder			@Primitives:Color/green/600	@Primitives:Color/green/300
+Semantic	Color/border/accent/green-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentYellowBorder			@Primitives:Color/green/300	@Primitives:Color/green/600
+Semantic	Color/border/accent/yellow	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentYellowBorder			@Primitives:Color/yellow/600	@Primitives:Color/yellow/300
+Semantic	Color/border/accent/yellow-subtle	COLOR	SHAPE_FILL,STROKE_COLOR	theme.colors.accentYellowBorder			@Primitives:Color/yellow/300	@Primitives:Color/yellow/600
+Semantic	Color/button-highlight	COLOR	ALL_SCOPES				#ffffff	#ffffff40
+Semantic	Color/highlight-subtle	COLOR	ALL_SCOPES				@Primitives:Color/white@30%	@Primitives:Color/white@8%
+Semantic	Type/font size/display/d1	FLOAT		theme.textVariants.displayD1.fontSize			@Primitives:Type/font size/1000	@Primitives:Type/font size/1000
+Semantic	Type/font size/display/d2	FLOAT		theme.textVariants.displayD2.fontSize			@Primitives:Type/font size/900	@Primitives:Type/font size/900
+Semantic	Type/font size/display/d3	FLOAT		theme.textVariants.displayD3.fontSize			@Primitives:Type/font size/800	@Primitives:Type/font size/800
+Semantic	Type/font size/heading/h1	FLOAT	FONT_SIZE	theme.textVariants.headingH1.fontSize			@Primitives:Type/font size/700	@Primitives:Type/font size/600
+Semantic	Type/font size/heading/h2	FLOAT	FONT_SIZE	theme.textVariants.headingH2.fontSize			@Primitives:Type/font size/600	@Primitives:Type/font size/600
+Semantic	Type/font size/heading/h3	FLOAT	FONT_SIZE	theme.textVariants.headingH3.fontSize			@Primitives:Type/font size/500	@Primitives:Type/font size/500
+Semantic	Type/font size/heading/h4	FLOAT	FONT_SIZE	theme.textVariants.headingH4.fontSize			@Primitives:Type/font size/400	@Primitives:Type/font size/400
+Semantic	Type/font size/body/tiny	FLOAT		theme.textVariants.bodyXsmall.fontSize			@Primitives:Type/font size/100	@Primitives:Type/font size/100
+Semantic	Type/font size/body/xsmall	FLOAT		theme.textVariants.bodySmall.fontSize			@Primitives:Type/font size/200	@Primitives:Type/font size/200
+Semantic	Type/font size/body/small	FLOAT		theme.textVariants.bodyBase.fontSize			@Primitives:Type/font size/300	@Primitives:Type/font size/300
+Semantic	Type/font size/body/base	FLOAT		theme.textVariants.bodyLarge.fontSize			@Primitives:Type/font size/400	@Primitives:Type/font size/400
+Semantic	Type/font size/body/large	FLOAT	FONT_SIZE	theme.textVariants.bodyLarge.fontSize			@Primitives:Type/font size/500	@Primitives:Type/font size/500
+Semantic	Type/font size/label/tiny	FLOAT		theme.textVariants.labelXsmall.fontSize			@Primitives:Type/font size/100	@Primitives:Type/font size/100
+Semantic	Type/font size/label/xsmall	FLOAT		theme.textVariants.labelSmall.fontSize			@Primitives:Type/font size/200	@Primitives:Type/font size/200
+Semantic	Type/font size/label/small	FLOAT		theme.textVariants.labelBase.fontSize			@Primitives:Type/font size/300	@Primitives:Type/font size/300
+Semantic	Type/font size/label/base	FLOAT		theme.textVariants.labelLarge.fontSize			@Primitives:Type/font size/400	@Primitives:Type/font size/400
+Semantic	Type/font size/label/large	FLOAT	FONT_SIZE	theme.textVariants.labelLarge.fontSize			@Primitives:Type/font size/500	@Primitives:Type/font size/500
+Semantic	Type/font weight/display	STRING	ALL_SCOPES				@Primitives:Type/font weight/Semi Bold	@Primitives:Type/font weight/Semi Bold
+Semantic	Type/font weight/heading	STRING	ALL_SCOPES				@Primitives:Type/font weight/Semi Bold	@Primitives:Type/font weight/Semi Bold
+Semantic	Type/font weight/body	STRING	ALL_SCOPES				@Primitives:Type/font weight/Regular	@Primitives:Type/font weight/Regular
+Semantic	Type/font weight/label	STRING	ALL_SCOPES				@Primitives:Type/font weight/Medium	@Primitives:Type/font weight/Medium
+Semantic	Type/font weight/label-bold	STRING	ALL_SCOPES				@Primitives:Type/font weight/Semi Bold	@Primitives:Type/font weight/Semi Bold
+Semantic	Type/font weight/code	STRING	ALL_SCOPES				@Primitives:Type/font weight/Regular	@Primitives:Type/font weight/Regular
+Semantic	Type/line height/display/d1	FLOAT	LINE_HEIGHT	theme.textVariants.displayD1.lineHeight			@Primitives:Type/line height/800	@Primitives:Type/line height/800
+Semantic	Type/line height/display/d2	FLOAT	LINE_HEIGHT	theme.textVariants.displayD2.lineHeight			@Primitives:Type/line height/600	@Primitives:Type/line height/600
+Semantic	Type/line height/display/d3	FLOAT	LINE_HEIGHT	theme.textVariants.displayD3.lineHeight			@Primitives:Type/line height/500	@Primitives:Type/line height/500
+Semantic	Type/line height/heading/h1	FLOAT	LINE_HEIGHT	theme.textVariants.headingH1.lineHeight			@Primitives:Type/line height/500	@Primitives:Type/line height/500
+Semantic	Type/line height/heading/h2	FLOAT	LINE_HEIGHT	theme.textVariants.headingH2.lineHeight			@Primitives:Type/line height/300	@Primitives:Type/line height/300
+Semantic	Type/line height/heading/h3	FLOAT	LINE_HEIGHT	theme.textVariants.headingH3.lineHeight			@Primitives:Type/line height/300	@Primitives:Type/line height/300
+Semantic	Type/line height/body/xsmall	FLOAT	LINE_HEIGHT	theme.textVariants.bodyXsmall.lineHeight			@Primitives:Type/line height/100	@Primitives:Type/line height/100
+Semantic	Type/line height/heading/h4	FLOAT	LINE_HEIGHT	theme.textVariants.headingH4.lineHeight			@Primitives:Type/line height/200	@Primitives:Type/line height/200
+Semantic	Type/line height/body/small	FLOAT	LINE_HEIGHT	theme.textVariants.bodySmall.lineHeight			@Primitives:Type/line height/100	@Primitives:Type/line height/100
+Semantic	Type/line height/body/base	FLOAT	LINE_HEIGHT	theme.textVariants.bodyBase.lineHeight			@Primitives:Type/line height/200	@Primitives:Type/line height/200
+Semantic	Type/line height/body/large	FLOAT	LINE_HEIGHT	theme.textVariants.bodyLarge.lineHeight			@Primitives:Type/line height/400	@Primitives:Type/line height/400
+Semantic	Type/line height/label/xsmall	FLOAT	LINE_HEIGHT	theme.textVariants.labelXsmall.lineHeight			@Primitives:Type/line height/100	@Primitives:Type/line height/100
+Semantic	Type/line height/label/small	FLOAT	LINE_HEIGHT	theme.textVariants.labelSmall.lineHeight			@Primitives:Type/line height/100	@Primitives:Type/line height/100
+Semantic	Type/line height/label/base	FLOAT	LINE_HEIGHT	theme.textVariants.labelBase.lineHeight			@Primitives:Type/line height/200	@Primitives:Type/line height/200
+Semantic	Type/line height/label/large	FLOAT	LINE_HEIGHT	theme.textVariants.labelLarge.lineHeight			@Primitives:Type/line height/300	@Primitives:Type/line height/300
+Semantic	Type/letter spacing/dislpay/d1	FLOAT		theme.textVariants.displayD1.letterSpacing			@Primitives:Type/letter spacing/700	@Primitives:Type/letter spacing/700
+Semantic	Type/letter spacing/dislpay/d2	FLOAT		theme.textVariants.displayD2.letterSpacing			@Primitives:Type/letter spacing/600	@Primitives:Type/letter spacing/600
+Semantic	Type/letter spacing/dislpay/d3	FLOAT		theme.textVariants.displayD3.letterSpacing			@Primitives:Type/letter spacing/500	@Primitives:Type/letter spacing/500
+Semantic	Type/letter spacing/heading/h1	FLOAT		theme.textVariants.headingH1.letterSpacing			@Primitives:Type/letter spacing/400	@Primitives:Type/letter spacing/600
+Semantic	Type/letter spacing/heading/h2	FLOAT		theme.textVariants.headingH2.letterSpacing			@Primitives:Type/letter spacing/400	@Primitives:Type/letter spacing/400
+Semantic	Type/letter spacing/heading/h3	FLOAT		theme.textVariants.headingH3.letterSpacing			@Primitives:Type/letter spacing/300	@Primitives:Type/letter spacing/300
+Semantic	Type/letter spacing/heading/h4	FLOAT		theme.textVariants.headingH4.letterSpacing			@Primitives:Type/letter spacing/200	@Primitives:Type/letter spacing/200
+Semantic	Type/letter spacing/body/xsmall	FLOAT		theme.textVariants.bodyXsmall.letterSpacing			@Primitives:Type/letter spacing/100	@Primitives:Type/letter spacing/100
+Semantic	Type/letter spacing/body/small	FLOAT		theme.textVariants.bodySmall.letterSpacing			@Primitives:Type/letter spacing/100	@Primitives:Type/letter spacing/100
+Semantic	Type/letter spacing/body/base	FLOAT		theme.textVariants.bodyBase.letterSpacing			@Primitives:Type/letter spacing/100	@Primitives:Type/letter spacing/100
+Semantic	Type/letter spacing/body/large	FLOAT		theme.textVariants.bodyLarge.letterSpacing			@Primitives:Type/letter spacing/100	@Primitives:Type/letter spacing/100
+Semantic	Type/letter spacing/label/xsmall	FLOAT		theme.textVariants.labelXsmall.letterSpacing			@Primitives:Type/letter spacing/100	@Primitives:Type/letter spacing/100
+Semantic	Type/letter spacing/label/small	FLOAT		theme.textVariants.labelSmall.letterSpacing			@Primitives:Type/letter spacing/100	@Primitives:Type/letter spacing/100
+Semantic	Type/letter spacing/label/base	FLOAT		theme.textVariants.labelBase.letterSpacing			@Primitives:Type/letter spacing/100	@Primitives:Type/letter spacing/100
+Semantic	Type/letter spacing/label/large	FLOAT		theme.textVariants.labelLarge.letterSpacing			@Primitives:Type/letter spacing/200	@Primitives:Type/letter spacing/200
+Semantic	Type/font family/display	STRING	ALL_SCOPES	theme.fontFamilies.displaySemiBold			@Primitives:Type/font family/Font display	@Primitives:Type/font family/Font display
+Semantic	Type/font family/heading	STRING	ALL_SCOPES	theme.fontFamilies.headingSemiBold			@Primitives:Type/font family/Font heading	@Primitives:Type/font family/Font heading
+Semantic	Type/font family/body	STRING	ALL_SCOPES	theme.fontFamilies.bodyRegular			@Primitives:Type/font family/Font body	@Primitives:Type/font family/Font body
+Semantic	Type/font family/label	STRING	ALL_SCOPES	theme.fontFamilies.labelMedium			@Primitives:Type/font family/Font body	@Primitives:Type/font family/Font body
+Semantic	Type/font family/code	STRING	ALL_SCOPES	theme.fontFamilies.codeRegular			@Primitives:Type/font family/Font Code	@Primitives:Type/font family/Font Code
+Semantic	Type/font size/code/xsmall	FLOAT		theme.textVariants.codeXsmall.fontSize			@Primitives:Type/font size/100	@Primitives:Type/font size/100
+Semantic	Type/font size/code/small	FLOAT		theme.textVariants.codeSmall.fontSize			@Primitives:Type/font size/200	@Primitives:Type/font size/200
+Semantic	Type/font size/code/base	FLOAT		theme.textVariants.codeBase.fontSize			@Primitives:Type/font size/300	@Primitives:Type/font size/300
+Semantic	Type/font size/code/large	FLOAT		theme.textVariants.codeLarge.fontSize			@Primitives:Type/font size/400	@Primitives:Type/font size/400
+Semantic	Type/letter spacing/code/xsmall	FLOAT		theme.textVariants.codeXsmall.letterSpacing			@Primitives:Type/letter spacing/100	@Primitives:Type/letter spacing/100
+Semantic	Type/letter spacing/code/small	FLOAT		theme.textVariants.codeSmall.letterSpacing			@Primitives:Type/letter spacing/100	@Primitives:Type/letter spacing/100
+Semantic	Type/letter spacing/code/base	FLOAT		theme.textVariants.codeBase.letterSpacing			@Primitives:Type/letter spacing/200	@Primitives:Type/letter spacing/200
+Semantic	Type/letter spacing/code/large	FLOAT		theme.textVariants.codeLarge.letterSpacing			@Primitives:Type/letter spacing/200	@Primitives:Type/letter spacing/200
+Semantic	Color/surface/tertiary/default	COLOR	FRAME_FILL	theme.colors.surfaceTertiary			@Primitives:Color/neutral/200	@Primitives:Color/dark alpha neutral/200
+Semantic	Color/surface/tertiary/default hovered	COLOR	FRAME_FILL	theme.colors.surfaceTertiaryHovered			@Primitives:Color/neutral/300	@Primitives:Color/dark alpha neutral/300
+Semantic	Color/surface/tertiary/default pressed	COLOR	FRAME_FILL	theme.colors.surfaceTertiaryPressed			@Primitives:Color/neutral/400	@Primitives:Color/dark alpha neutral/400
+Semantic	Color/background/accent/cyan/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentRedBg			@Primitives:Color/cyan/50	@Primitives:Color/cyan/900
+Semantic	Color/background/accent/cyan/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentRedBgHovered			@Primitives:Color/cyan/100	@Primitives:Color/cyan/900
+Semantic	Color/background/accent/cyan/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentRedBold			@Primitives:Color/cyan/500	@Primitives:Color/cyan/500
+Semantic	Color/background/accent/cyan/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentRedBoldHovered			@Primitives:Color/cyan/600	@Primitives:Color/cyan/400
+Semantic	Color/background/neutral/bolder 2/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerNeutralBolder			@Primitives:Color/neutral/900	@Primitives:Color/dark alpha neutral/900
+Semantic	Color/background/neutral/bolder 2/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerNeutralBolderHovered			@Primitives:Color/neutral/800	@Primitives:Color/dark alpha neutral/800
+Semantic	Color/background/brand-universal/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrand			@Primitives:Color/yellow/100	@Primitives:Color/yellow/900
+Semantic	Color/background/brand-universal/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandHovered			@Primitives:Color/yellow/200	@Primitives:Color/yellow/800
+Semantic	Color/background/brand-universal/pressed	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandPressed			@Primitives:Color/yellow/300	@Primitives:Color/yellow/700
+Semantic	Color/background/brand-universal/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBold			@Primitives:Color/yellow/400	@Primitives:Color/yellow/400
+Semantic	Color/background/brand-universal/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBoldHovered			@Primitives:Color/yellow/500	@Primitives:Color/yellow/500
+Semantic	Color/background/brand-universal/bold/pressed	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBoldPressed			@Primitives:Color/yellow/500	@Primitives:Color/yellow/500
+Semantic	Color/surface/transluscent/default	COLOR	FRAME_FILL	theme.colors.surfaceOverlayDefault			@Primitives:Color/white@85%	@Primitives:Color/dark neutral/100@85%
+Semantic	Color/surface/transluscent/default hovered	COLOR	FRAME_FILL	theme.colors.surfaceOverlayHovered			@Primitives:Color/neutral/100@85%	@Primitives:Color/dark neutral/200@85%
+Semantic	Color/surface/transluscent/default pressed	COLOR	FRAME_FILL	theme.colors.surfaceOverlayPressed			@Primitives:Color/neutral/100@85%	@Primitives:Color/dark neutral/200@85%
+Semantic	Color/background/accent/gray/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentAquaBg			@Primitives:Color/neutral/200	@Primitives:Color/dark neutral/200
+Semantic	Color/background/accent/gray/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentAquaBgHovered			@Primitives:Color/neutral/300	@Primitives:Color/dark neutral/300
+Semantic	Color/background/accent/gray/less bold/default	COLOR	ALL_SCOPES				@Primitives:Color/neutral/300	@Primitives:Color/dark neutral/300
+Semantic	Color/background/accent/gray/less bold/hovered	COLOR	ALL_SCOPES				@Primitives:Color/neutral/400	@Primitives:Color/dark neutral/400
+Semantic	Color/background/accent/gray/less bold/pressed	COLOR	ALL_SCOPES				@Primitives:Color/neutral/400	@Primitives:Color/dark neutral/400
+Semantic	Color/background/accent/gray/bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentAquaBold			@Primitives:Color/neutral/600	@Primitives:Color/dark neutral/600
+Semantic	Color/background/accent/gray/bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.accentAquaBoldHovered			@Primitives:Color/neutral/700	@Primitives:Color/dark neutral/700
+Semantic	no-fill white	COLOR	ALL_SCOPES				@Primitives:Color/white@0%	@Primitives:Color/black@0%
+Semantic	no-fill black	COLOR	ALL_SCOPES				@Primitives:Color/black@0%	@Primitives:Color/white@0%
+Semantic	Color/surface/secondary translucent/default	COLOR	FRAME_FILL	theme.colors.surfaceOverlayDefault			@Primitives:Color/neutral/100@85%	@Primitives:Color/dark neutral/50@85%
+Semantic	Color/surface/secondary translucent/default hovered	COLOR	FRAME_FILL	theme.colors.surfaceOverlayHovered			@Primitives:Color/neutral/200@85%	@Primitives:Color/dark neutral/100@85%
+Semantic	Color/surface/secondary translucent/default pressed	COLOR	FRAME_FILL	theme.colors.surfaceOverlayPressed			@Primitives:Color/neutral/300@85%	@Primitives:Color/dark neutral/500@85%
+Semantic	Color/background/brand/less bold/default	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBold			@Primitives:Color/yellow/300	@Primitives:Color/yellow/600
+Semantic	Color/background/brand/less bold/hovered	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBoldHovered			@Primitives:Color/yellow/400	@Primitives:Color/yellow/500
+Semantic	Color/background/brand/less bold/pressed	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR	theme.colors.containerBrandBoldPressed			@Primitives:Color/yellow/500	@Primitives:Color/yellow/400

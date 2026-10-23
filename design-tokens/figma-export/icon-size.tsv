@@ -1,0 +1,3 @@
+collection	name	type	scopes	codeSyntaxWeb	hidden	description	16px	20px	24px	32px
+Icon size	icon size	FLOAT	ALL_SCOPES	theme.iconSizes[N].size			16	20	24	32
+Icon size	Icon outline	FLOAT	ALL_SCOPES	theme.iconSizes[N].outline			1.5	1.5	2	2

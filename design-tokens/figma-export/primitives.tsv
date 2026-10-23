@@ -1,0 +1,252 @@
+collection	name	type	scopes	codeSyntaxWeb	hidden	description	Mode 1
+Primitives	Color/white	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR				#ffffff
+Primitives	Color/black	COLOR	FRAME_FILL,SHAPE_FILL,EFFECT_COLOR				#000000
+Primitives	Color/neutral/50	COLOR	EFFECT_COLOR				#fcfbf8
+Primitives	Color/neutral/100	COLOR	EFFECT_COLOR				#f6f3ef
+Primitives	Color/neutral/200	COLOR	EFFECT_COLOR				#eceae6
+Primitives	Color/neutral/300	COLOR	EFFECT_COLOR				#dcd9d0
+Primitives	Color/neutral/400	COLOR	EFFECT_COLOR				#aea89b
+Primitives	Color/neutral/500	COLOR	EFFECT_COLOR				#8b826f
+Primitives	Color/neutral/600	COLOR	EFFECT_COLOR				#7a7466
+Primitives	Color/neutral/700	COLOR	EFFECT_COLOR				#524a37
+Primitives	Color/neutral/800	COLOR	EFFECT_COLOR				#393121
+Primitives	Color/neutral/900	COLOR	EFFECT_COLOR				#2c271b
+Primitives	Color/neutral/950	COLOR	EFFECT_COLOR				#181102
+Primitives	Color/alpha neutral/50	COLOR	EFFECT_COLOR				#2c271b00
+Primitives	Color/alpha neutral/100	COLOR	EFFECT_COLOR				#362a120f
+Primitives	Color/alpha neutral/200	COLOR	EFFECT_COLOR				#2c271b1a
+Primitives	Color/alpha neutral/300	COLOR	EFFECT_COLOR				#2c271b24
+Primitives	Color/alpha neutral/400	COLOR	EFFECT_COLOR				#2a261d63
+Primitives	Color/alpha neutral/500	COLOR	EFFECT_COLOR				#2a261d99
+Primitives	Color/alpha neutral/600	COLOR	EFFECT_COLOR				#252422bf
+Primitives	Color/alpha neutral/700	COLOR	EFFECT_COLOR				#23221fd6
+Primitives	Color/alpha neutral/800	COLOR	EFFECT_COLOR				#222220f2
+Primitives	Color/alpha neutral/900	COLOR	EFFECT_COLOR				#21201e
+Primitives	Color/alpha neutral/950	COLOR	EFFECT_COLOR				#100e0a
+Primitives	Color/dark neutral/900	COLOR	EFFECT_COLOR				#dfdedd
+Primitives	Color/dark neutral/800	COLOR	EFFECT_COLOR				#d3d2cf
+Primitives	Color/dark neutral/700	COLOR	EFFECT_COLOR				#c2c0bd
+Primitives	Color/dark neutral/600	COLOR	EFFECT_COLOR				#b4b1ac
+Primitives	Color/dark neutral/500	COLOR	EFFECT_COLOR				#a39f99
+Primitives	Color/dark neutral/400	COLOR	EFFECT_COLOR				#837f77
+Primitives	Color/dark neutral/300	COLOR	EFFECT_COLOR				#5e5a55
+Primitives	Color/dark neutral/200	COLOR	EFFECT_COLOR				#302e2c
+Primitives	Color/dark neutral/100	COLOR	EFFECT_COLOR				#222220
+Primitives	Color/dark neutral/50	COLOR	EFFECT_COLOR				#181716
+Primitives	Color/dark neutral/25	COLOR	EFFECT_COLOR				#181716
+Primitives	Color/dark alpha neutral/900	COLOR	EFFECT_COLOR				#e0dedc
+Primitives	Color/dark alpha neutral/800	COLOR	EFFECT_COLOR				#e0dedced
+Primitives	Color/dark alpha neutral/700	COLOR	EFFECT_COLOR				#e0dedcd6
+Primitives	Color/dark alpha neutral/600	COLOR	EFFECT_COLOR				#e0dedcc2
+Primitives	Color/dark alpha neutral/500	COLOR	EFFECT_COLOR				#e0dedca8
+Primitives	Color/dark alpha neutral/400	COLOR	EFFECT_COLOR				#e0dedc94
+Primitives	Color/dark alpha neutral/300	COLOR	EFFECT_COLOR				#e0dedc3d
+Primitives	Color/dark alpha neutral/200	COLOR	EFFECT_COLOR				#e0dedc24
+Primitives	Color/dark alpha neutral/100	COLOR	EFFECT_COLOR				#e0dedc12
+Primitives	Color/dark alpha neutral/50	COLOR	EFFECT_COLOR				#e0dedc00
+Primitives	Color/dark alpha neutral/25	COLOR	EFFECT_COLOR				#1d1c1b
+Primitives	Color/red/25	COLOR	EFFECT_COLOR				#fff0f2
+Primitives	Color/red/50	COLOR	EFFECT_COLOR				#ffe2e3
+Primitives	Color/red/100	COLOR	EFFECT_COLOR				#ffc9ce
+Primitives	Color/red/200	COLOR	EFFECT_COLOR				#ff9ca6
+Primitives	Color/red/300	COLOR	EFFECT_COLOR				#ff657a
+Primitives	Color/red/400	COLOR	EFFECT_COLOR				#ff2f4b
+Primitives	Color/red/500	COLOR	EFFECT_COLOR				#ec0b29
+Primitives	Color/red/600	COLOR	EFFECT_COLOR				#ce021d
+Primitives	Color/red/700	COLOR	EFFECT_COLOR				#ac0508
+Primitives	Color/red/800	COLOR	EFFECT_COLOR				#930821
+Primitives	Color/red/900	COLOR	EFFECT_COLOR				#52000f
+Primitives	Color/green/50	COLOR	EFFECT_COLOR				#f1fcf2
+Primitives	Color/green/100	COLOR	EFFECT_COLOR				#e4fbe6
+Primitives	Color/green/200	COLOR	EFFECT_COLOR				#b2f1b8
+Primitives	Color/green/300	COLOR	EFFECT_COLOR				#8ce995
+Primitives	Color/green/400	COLOR	EFFECT_COLOR				#53d561
+Primitives	Color/green/500	COLOR	EFFECT_COLOR				#2cbb3b
+Primitives	Color/green/600	COLOR	EFFECT_COLOR				#1f9a2c
+Primitives	Color/green/700	COLOR	EFFECT_COLOR				#1c7927
+Primitives	Color/green/800	COLOR	EFFECT_COLOR				#1b6023
+Primitives	Color/green/900	COLOR	EFFECT_COLOR				#133f19
+Primitives	Color/green/900 2	COLOR	EFFECT_COLOR				#082b0d
+Primitives	Color/yellow/50	COLOR	EFFECT_COLOR				#fffcea
+Primitives	Color/yellow/100	COLOR	EFFECT_COLOR				#fff9d1
+Primitives	Color/yellow/200	COLOR	EFFECT_COLOR				#ffee86
+Primitives	Color/yellow/300	COLOR	EFFECT_COLOR				#ffde46
+Primitives	Color/yellow/400	COLOR	EFFECT_COLOR				#ffc412
+Primitives	Color/yellow/500	COLOR	EFFECT_COLOR				#feb007
+Primitives	Color/yellow/600	COLOR	EFFECT_COLOR				#e58800
+Primitives	Color/yellow/700	COLOR	EFFECT_COLOR				#bb5c02
+Primitives	Color/yellow/800	COLOR	EFFECT_COLOR				#974709
+Primitives	Color/yellow/900	COLOR	EFFECT_COLOR				#7c560b
+Primitives	Color/yellow/950	COLOR	EFFECT_COLOR				#483100
+Primitives	Color/amber/50	COLOR	EFFECT_COLOR				#fffcea
+Primitives	Color/amber/100	COLOR	EFFECT_COLOR				#fff1c5
+Primitives	Color/amber/200	COLOR	EFFECT_COLOR				#ffd986
+Primitives	Color/amber/300	COLOR	EFFECT_COLOR				#ffc446
+Primitives	Color/amber/400	COLOR	EFFECT_COLOR				#ffb412
+Primitives	Color/amber/500	COLOR	EFFECT_COLOR				#fea807
+Primitives	Color/amber/600	COLOR	EFFECT_COLOR				#e18500
+Primitives	Color/amber/700	COLOR	EFFECT_COLOR				#bb5c02
+Primitives	Color/amber/800	COLOR	EFFECT_COLOR				#974709
+Primitives	Color/amber/900	COLOR	EFFECT_COLOR				#7c3a0b
+Primitives	Color/amber/950	COLOR	EFFECT_COLOR				#481d00
+Primitives	Color/orange/50	COLOR	EFFECT_COLOR				#fff2e5
+Primitives	Color/orange/100	COLOR	EFFECT_COLOR				#ffeddb
+Primitives	Color/orange/200	COLOR	EFFECT_COLOR				#ffe3c7
+Primitives	Color/orange/300	COLOR	EFFECT_COLOR				#fdd59b
+Primitives	Color/orange/400	COLOR	EFFECT_COLOR				#fea962
+Primitives	Color/orange/500	COLOR	EFFECT_COLOR				#fd7c2b
+Primitives	Color/orange/600	COLOR	EFFECT_COLOR				#fb5b04
+Primitives	Color/orange/700	COLOR	EFFECT_COLOR				#dc4509
+Primitives	Color/orange/800	COLOR	EFFECT_COLOR				#b42e09
+Primitives	Color/orange/900	COLOR	EFFECT_COLOR				#7b1f0a
+Primitives	Color/orange/950	COLOR	EFFECT_COLOR				#492818
+Primitives	Color/pink/50	COLOR	EFFECT_COLOR				#fce8f5
+Primitives	Color/pink/100	COLOR	EFFECT_COLOR				#fce9f7
+Primitives	Color/pink/200	COLOR	EFFECT_COLOR				#fadbf1
+Primitives	Color/pink/300	COLOR	EFFECT_COLOR				#fbc1e9
+Primitives	Color/pink/400	COLOR	EFFECT_COLOR				#f99adb
+Primitives	Color/pink/500	COLOR	EFFECT_COLOR				#f561c1
+Primitives	Color/pink/600	COLOR	EFFECT_COLOR				#ed36b6
+Primitives	Color/pink/700	COLOR	EFFECT_COLOR				#d42189
+Primitives	Color/pink/800	COLOR	EFFECT_COLOR				#b3146c
+Primitives	Color/pink/900	COLOR	EFFECT_COLOR				#710941
+Primitives	Color/pink/950	COLOR	EFFECT_COLOR				#451c32
+Primitives	Color/rose/50	COLOR	EFFECT_COLOR				#ffe5e8
+Primitives	Color/rose/100	COLOR	EFFECT_COLOR				#ffebee
+Primitives	Color/rose/200	COLOR	EFFECT_COLOR				#ffd6dc
+Primitives	Color/rose/300	COLOR	EFFECT_COLOR				#febeca
+Primitives	Color/rose/400	COLOR	EFFECT_COLOR				#fe95a9
+Primitives	Color/rose/500	COLOR	EFFECT_COLOR				#fd5e81
+Primitives	Color/rose/600	COLOR	EFFECT_COLOR				#f52d5c
+Primitives	Color/rose/700	COLOR	EFFECT_COLOR				#d6194f
+Primitives	Color/rose/800	COLOR	EFFECT_COLOR				#b30f43
+Primitives	Color/rose/900	COLOR	EFFECT_COLOR				#74062d
+Primitives	Color/rose/950	COLOR	EFFECT_COLOR				#441d2b
+Primitives	Color/purple/50	COLOR	EFFECT_COLOR				#f2effe
+Primitives	Color/purple/100	COLOR	EFFECT_COLOR				#e8e3fc
+Primitives	Color/purple/200	COLOR	EFFECT_COLOR				#d6ccf9
+Primitives	Color/purple/300	COLOR	EFFECT_COLOR				#beacf5
+Primitives	Color/purple/400	COLOR	EFFECT_COLOR				#ab8bee
+Primitives	Color/purple/500	COLOR	EFFECT_COLOR				#9d6fe5
+Primitives	Color/purple/600	COLOR	EFFECT_COLOR				#9153d8
+Primitives	Color/purple/700	COLOR	EFFECT_COLOR				#8044be
+Primitives	Color/purple/800	COLOR	EFFECT_COLOR				#673a99
+Primitives	Color/purple/900	COLOR	EFFECT_COLOR				#54357a
+Primitives	Color/purple/950	COLOR	EFFECT_COLOR				#321f47
+Primitives	Color/cyan/50	COLOR	EFFECT_COLOR				#e2f0f6
+Primitives	Color/cyan/100	COLOR	EFFECT_COLOR				#cefafe
+Primitives	Color/cyan/200	COLOR	EFFECT_COLOR				#a2eefd
+Primitives	Color/cyan/300	COLOR	EFFECT_COLOR				#53dbfd
+Primitives	Color/cyan/400	COLOR	EFFECT_COLOR				#00bef3
+Primitives	Color/cyan/500	COLOR	EFFECT_COLOR				#00a4db
+Primitives	Color/cyan/600	COLOR	EFFECT_COLOR				#008ab8
+Primitives	Color/cyan/700	COLOR	EFFECT_COLOR				#007095
+Primitives	Color/cyan/800	COLOR	EFFECT_COLOR				#005a78
+Primitives	Color/cyan/900	COLOR	EFFECT_COLOR				#104e64
+Primitives	Color/cyan/950	COLOR	EFFECT_COLOR				#053345
+Primitives	Color/blue/25	COLOR	EFFECT_COLOR				#eff6ff
+Primitives	Color/blue/50	COLOR	EFFECT_COLOR				#dbeafe
+Primitives	Color/blue/100	COLOR	EFFECT_COLOR				#bedbff
+Primitives	Color/blue/200	COLOR	EFFECT_COLOR				#99cbff
+Primitives	Color/blue/300	COLOR	EFFECT_COLOR				#51a2ff
+Primitives	Color/blue/400	COLOR	EFFECT_COLOR				#51a2ff
+Primitives	Color/blue/500	COLOR	EFFECT_COLOR				#2b7fff
+Primitives	Color/blue/600	COLOR	EFFECT_COLOR				#1b5ff6
+Primitives	Color/blue/700	COLOR	EFFECT_COLOR				#1849e2
+Primitives	Color/blue/800	COLOR	EFFECT_COLOR				#193cb8
+Primitives	Color/blue/900	COLOR	EFFECT_COLOR				#1c398e
+Primitives	Color/blue/950	COLOR	EFFECT_COLOR				#162456
+Primitives	Color/violet/50	COLOR	EFFECT_COLOR				#f5f3ff
+Primitives	Color/violet/100	COLOR	EFFECT_COLOR				#ede9fe
+Primitives	Color/violet/200	COLOR	EFFECT_COLOR				#ddd6ff
+Primitives	Color/violet/300	COLOR	EFFECT_COLOR				#c4b4ff
+Primitives	Color/violet/400	COLOR	EFFECT_COLOR				#a684ff
+Primitives	Color/violet/500	COLOR	EFFECT_COLOR				#8e51ff
+Primitives	Color/violet/600	COLOR	EFFECT_COLOR				#7f22fe
+Primitives	Color/violet/700	COLOR	EFFECT_COLOR				#7008e7
+Primitives	Color/violet/800	COLOR	EFFECT_COLOR				#5d0ec0
+Primitives	Color/violet/900	COLOR	EFFECT_COLOR				#4d179a
+Primitives	Color/violet/950	COLOR	EFFECT_COLOR				#2f0d68
+Primitives	Color/fuchsia/50	COLOR	EFFECT_COLOR				#fdf5fe
+Primitives	Color/fuchsia/100	COLOR	EFFECT_COLOR				#fbeafd
+Primitives	Color/fuchsia/200	COLOR	EFFECT_COLOR				#f6d4fa
+Primitives	Color/fuchsia/300	COLOR	EFFECT_COLOR				#f1b3f4
+Primitives	Color/fuchsia/400	COLOR	EFFECT_COLOR				#e985ed
+Primitives	Color/fuchsia/500	COLOR	EFFECT_COLOR				#da56df
+Primitives	Color/fuchsia/600	COLOR	EFFECT_COLOR				#b132b3
+Primitives	Color/fuchsia/700	COLOR	EFFECT_COLOR				#a12aa0
+Primitives	Color/fuchsia/800	COLOR	EFFECT_COLOR				#842482
+Primitives	Color/fuchsia/900	COLOR	EFFECT_COLOR				#6c2369
+Primitives	Color/fuchsia/950	COLOR	EFFECT_COLOR				#470b45
+Primitives	Type/font family/Font display	STRING		primitives.fontFamilies.display			Zalando Sans SemiExpanded
+Primitives	Type/font family/Font heading	STRING		primitives.fontFamilies.heading			Zalando Sans SemiExpanded
+Primitives	Type/font family/Font body	STRING		primitives.fontFamilies.body			Geist
+Primitives	Type/font family/Font Code	STRING		primitives.fontFamilies.code			Roboto Mono
+Primitives	Type/font weight/Regular	STRING					Regular
+Primitives	Type/line height/100	FLOAT		primitives.lineHeightScale[1]			16
+Primitives	Type/line height/200	FLOAT		primitives.lineHeightScale[2]			18
+Primitives	Type/line height/300	FLOAT		primitives.lineHeightScale[3]			22
+Primitives	Type/line height/400	FLOAT		primitives.lineHeightScale[3]			24
+Primitives	Type/line height/500	FLOAT		primitives.lineHeightScale[4]			28
+Primitives	Type/line height/600	FLOAT		primitives.lineHeightScale[5]			32
+Primitives	Type/line height/700	FLOAT		primitives.lineHeightScale[6]			36
+Primitives	Type/line height/800	FLOAT		primitives.lineHeightScale[7]			40
+Primitives	Type/line height/900	FLOAT		primitives.lineHeightScale[8]			48
+Primitives	Type/line height/1000	FLOAT		primitives.lineHeightScale[9]			52
+Primitives	Type/font size/100	FLOAT		primitives.fontSizeScale[0]			11
+Primitives	Type/font size/200	FLOAT		primitives.fontSizeScale[1]			12
+Primitives	Type/font size/300	FLOAT		primitives.fontSizeScale[2]			13
+Primitives	Type/font size/400	FLOAT		primitives.fontSizeScale[3]			15
+Primitives	Type/font size/500	FLOAT		primitives.fontSizeScale[4]			17
+Primitives	Type/font size/600	FLOAT		primitives.fontSizeScale[5]			20
+Primitives	Type/font size/700	FLOAT		primitives.fontSizeScale[6]			22
+Primitives	Type/font size/800	FLOAT		primitives.fontSizeScale[7]			24
+Primitives	Type/font size/900	FLOAT		primitives.fontSizeScale[8]			28
+Primitives	Type/font size/1000	FLOAT		primitives.fontSizeScale[9]			32
+Primitives	Type/font size/1100	FLOAT		primitives.fontSizeScale[10]			36
+Primitives	Type/font size/1200	FLOAT		primitives.fontSizeScale[11]			40
+Primitives	Type/font size/1300	FLOAT		primitives.fontSizeScale[12]			48
+Primitives	Type/letter spacing/100	FLOAT		primitives.letterSpacingScale[100]			0
+Primitives	Type/letter spacing/200	FLOAT		primitives.letterSpacingScale[200]			-0.10000000149011612
+Primitives	Type/letter spacing/300	FLOAT		primitives.letterSpacingScale[300]			-0.20000000298023224
+Primitives	Type/letter spacing/400	FLOAT		primitives.letterSpacingScale[400]			-0.3199999928474426
+Primitives	Type/letter spacing/500	FLOAT		primitives.letterSpacingScale[500]			-0.47999998927116394
+Primitives	Type/letter spacing/600	FLOAT		primitives.letterSpacingScale[600]			-0.6399999856948853
+Primitives	Type/letter spacing/700	FLOAT		primitives.letterSpacingScale[700]			-0.800000011920929
+Primitives	Type/letter spacing/800	FLOAT		primitives.letterSpacingScale[800]			-1
+Primitives	Type/letter spacing/900	FLOAT		primitives.letterSpacingScale[900]			-1.2000000476837158
+Primitives	Type/font weight/Medium	STRING					Medium
+Primitives	Type/font weight/Semi Bold	STRING					Semi Bold
+Primitives	Type/font weight/Bold	STRING					Bold
+Primitives	Border radius/0	FLOAT	CORNER_RADIUS	theme.borderRadii[0]			0
+Primitives	Border radius/25	FLOAT	CORNER_RADIUS	theme.borderRadii[25]			2
+Primitives	Border radius/50	FLOAT	CORNER_RADIUS	theme.borderRadii[50]			4
+Primitives	Border radius/100	FLOAT	CORNER_RADIUS	theme.borderRadii[100]			6
+Primitives	Border radius/200	FLOAT	CORNER_RADIUS	theme.borderRadii[200]			8
+Primitives	Border radius/300	FLOAT	CORNER_RADIUS	theme.borderRadii[300]			12
+Primitives	Border radius/400	FLOAT	CORNER_RADIUS	theme.borderRadii[400]			16
+Primitives	Border radius/500	FLOAT	CORNER_RADIUS	theme.borderRadii[500]			20
+Primitives	Border radius/600	FLOAT	CORNER_RADIUS	theme.borderRadii[600]			24
+Primitives	Border radius/650	FLOAT	CORNER_RADIUS	theme.borderRadii[650]			28
+Primitives	Border radius/700	FLOAT	CORNER_RADIUS	theme.borderRadii[650]			32
+Primitives	Border radius/full	FLOAT	CORNER_RADIUS	theme.borderRadii.full			9999
+Primitives	Border width/xs	FLOAT	STROKE_FLOAT	theme.borderWidths.xs			0.6600000262260437
+Primitives	Border width/sm	FLOAT	STROKE_FLOAT	theme.borderWidths.sm			1
+Primitives	Border width/md	FLOAT	STROKE_FLOAT	theme.borderWidths.md			2
+Primitives	Border width/lg	FLOAT	STROKE_FLOAT	theme.borderWidths.lg			4
+Primitives	Border width/xl	FLOAT	STROKE_FLOAT	theme.borderWidths.xl			6
+Primitives	Spacing/0	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[0]			0
+Primitives	Spacing/25	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[25]			2
+Primitives	Spacing/50	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[50]			4
+Primitives	Spacing/100	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[100]			6
+Primitives	Spacing/200	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[200]			8
+Primitives	Spacing/300	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[300]			12
+Primitives	Spacing/400	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[400]			16
+Primitives	Spacing/500	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[500]			20
+Primitives	Spacing/600	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[600]			24
+Primitives	Spacing/700	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[700]			32
+Primitives	Spacing/800	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[800]			40
+Primitives	Spacing/900	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[900]			48
+Primitives	Spacing/1000	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[1000]			64
+Primitives	Spacing/1100	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[1100]			80
+Primitives	Spacing/1200	FLOAT	WIDTH_HEIGHT,GAP,FONT_VARIATIONS	theme.spacing[1100]			120
